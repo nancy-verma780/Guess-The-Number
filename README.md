@@ -4,13 +4,10 @@
 
   <p><strong>A sleek, minimalist terminal game built to test your intuition.</strong></p>
 
-[![GitHub License](https://shields.io)](LICENSE)
-[![GitHub Stars](https://shields.io)](../)
-[![PRs Welcome](https://shields.io)](../)
+
 
   <p>🧠 Think fast. 🎲 Guess right. 🏆 Climb the leaderboard.</p>
 
----
 </div>
 
 ## ✨ Core Highlights
